@@ -2,8 +2,8 @@ require 'formula'
 
 class Coopy < Formula
   homepage 'http://share.find.coop'
-  url 'https://github.com/paulfitz/coopy/archive/v0.6.8.tar.gz'
-  sha256 '43b29b80a1d270708cdfa2e3321807490e6aea134ed2d6f7335ccc1cebd69267'
+  url 'https://github.com/paulfitz/coopy/archive/v0.6.11.tar.gz'
+  sha256 '3653843df5736b7b6690aa6d3c2f995ce64e732e7459d723062369c8f4925f5a'
   head 'git://github.com/paulfitz/coopy.git'
 
   depends_on 'cmake' => :build
