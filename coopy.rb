@@ -3,7 +3,7 @@ require 'formula'
 class Coopy < Formula
   homepage 'http://share.find.coop'
   url 'https://github.com/paulfitz/coopy/archive/v0.6.12.tar.gz'
-  sha256 '3653843df5736b7b6690aa6d3c2f995ce64e732e7459d723062369c8f4925f5a'
+  sha256 '57a1c8c24f382d6677c639bb8303dde04cce65effc34f633ba5838ddc7134e83'
   head 'git://github.com/paulfitz/coopy.git'
 
   depends_on 'cmake' => :build
